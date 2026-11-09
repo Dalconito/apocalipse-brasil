@@ -1,34 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e3bb1cc-2835-4bb4-9ec6-832df6f24f3e" name="Changes" comment="" />
+    <list default="true" id="3e3bb1cc-2835-4bb4-9ec6-832df6f24f3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lore.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2087719798570924" />
+      <entry key="MS500" value="1.731028724200038" />
+      <entry key="S2" value="1.9254657754205224" />
+      <entry key="S5" value="2.1317326007620028" />
+      <entry key="S10" value="3.140694558298555" />
+      <entry key="S30" value="8.922136510663723" />
+      <entry key="S60" value="16.73841017971374" />
+      <entry key="M2" value="30.204433116114576" />
+      <entry key="M5" value="55.23535766993287" />
+      <entry key="M10" value="75.33481578656921" />
+      <entry key="M15" value="92.2440282025502" />
+      <entry key="M30" value="144.4825450408433" />
+      <entry key="H1" value="256.4690931679052" />
+      <entry key="H2" value="460.74086944560156" />
+      <entry key="H4" value="709.5994098382093" />
+      <entry key="D1" value="1116.1921618520869" />
+      <entry key="W1" value="1217.8323567321013" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.0992620193656578E-207" />
+      <entry key="S10" value="3.404026660409063E-104" />
+      <entry key="S30" value="6.441109175209989E-35" />
+      <entry key="S60" value="2.3160083883670062E-17" />
+      <entry key="M2" value="1.7047101160965648E-8" />
+      <entry key="M5" value="0.0042840624377843" />
+      <entry key="M10" value="0.33204802434629127" />
+      <entry key="M15" value="1.5808498845148182" />
+      <entry key="M30" value="8.894424909124012" />
+      <entry key="H1" value="26.356091079866676" />
+      <entry key="H2" value="57.465031103534606" />
+      <entry key="H4" value="97.5260263775536" />
+      <entry key="D1" value="167.5842735158321" />
+      <entry key="W1" value="185.73465679706916" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1018595838088174" />
+      <entry key="MS500" value="1.6690792194809976" />
+      <entry key="S2" value="1.9059225207946995" />
+      <entry key="S5" value="2.122875118184647" />
+      <entry key="S10" value="3.134063035434209" />
+      <entry key="S30" value="8.915710073974344" />
+      <entry key="S60" value="16.732306177990406" />
+      <entry key="M2" value="30.198876173857197" />
+      <entry key="M5" value="55.235578127977796" />
+      <entry key="M10" value="75.66301566469814" />
+      <entry key="M15" value="93.81881283949203" />
+      <entry key="M30" value="153.3625838821725" />
+      <entry key="H1" value="282.80272060419094" />
+      <entry key="H2" value="518.1808537973768" />
+      <entry key="H4" value="807.1041786421542" />
+      <entry key="D1" value="1283.7703699532542" />
+      <entry key="W1" value="1403.5660537525046" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LjfQvwUnldL01Q01p09ttxMiz8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Leoni/IdeaProjects/apocalipse_brasil/src/Main.java"
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Leoni/IdeaProjects/apocalipse_brasil/src/Main.java",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="apocalipse_brasil" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -46,15 +148,7 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
