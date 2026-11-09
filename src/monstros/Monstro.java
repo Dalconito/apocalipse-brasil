@@ -1,3 +1,7 @@
+package monstros;
+
+import java.util.Set;
+
 public class Monstro {
     public String nome;
     public Elementos elemento_prim;
@@ -7,12 +11,15 @@ public class Monstro {
     public byte def_fis;
     public byte def_elem;
     public byte velocidade;
-    public short vida;
+    public byte vida;
     public byte nivel;
-    public short experiencia;
+    public byte experiencia;
     public boolean fisico;
+    private final Set<Ataques> ataquesPermitidos;
 
-    public Monstro(String nome, Elementos elemento_prim, Elementos elemento_secum, byte atk_fis, byte atk_elem, byte def_fis, byte def_elem, byte velocidade, short vida, byte nivel, short experiencia, boolean fisico) {
+    public Monstro(String nome, Elementos elemento_prim, Elementos elemento_secum, byte atk_fis, byte atk_elem, byte def_fis, byte def_elem,
+                   byte velocidade, byte vida, byte nivel,
+                   Set<Ataques> ataquesPermitidos) {
         this.nome = nome;
         this.elemento_prim = elemento_prim;
         this.elemento_secum = elemento_secum;
@@ -25,15 +32,15 @@ public class Monstro {
         this.experiencia = 0;
         this.fisico = possuiElementoFisico();
         this.nivel = nivel;
-        this.experiencia = experiencia;
-        this.fisico = fisico;
-
-    IO.println(this.nome);
-    IO.println(this.fisico);
-    }
+        this.ataquesPermitidos = ataquesPermitidos;
+   }
 
     public boolean possuiElementoFisico() {
         return elemento_prim.isFisico() ||
                 elemento_secum.isFisico();
+    }
+
+    public boolean permiteAtaques(Ataques ataque){
+        return ataquesPermitidos.contains(ataque);
     }
 }

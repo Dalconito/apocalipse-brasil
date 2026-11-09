@@ -1,3 +1,5 @@
+package monstros;
+
 public enum Elementos {
     NONE(false),
     VENENO(false),
