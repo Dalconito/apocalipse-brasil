@@ -18,7 +18,7 @@ A devastação foi tamanha que a tecnologia foi perdida muitos lideres mundiais 
 As tais criaturas descobertas não sao de todo problema, elas cooperam conosco, o Brasil por ser um pais muito grande e diverso algumas areas como o nordeste que sofria com secas agora as criaturas nos ajudam a manter o ecossistema em equilibrio para vivermos.
 
 # Efetividades
-![img.png](img.png)
+![img_1.png](img_1.png)
 Explicação das efetividades
 ## Agua
 - Terra, pode penetrar a terra, tornando em lama e escoando
